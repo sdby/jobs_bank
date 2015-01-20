@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 #更好的页面样式
 gem 'bootstrap-sass'
+gem 'slim'
+gem 'slim-rails'
+gem 'html2slim'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
